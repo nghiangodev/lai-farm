@@ -1,0 +1,18 @@
+@page {
+    size: 210mm 297mm;
+    margin: 0;
+    }
+* {
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    }
+.mainHeader,
+.btFooterWrap,
+.btSidebar,
+.btSearchInner,
+.btAltLogo,
+.btBtn,
+.btIco {
+    display: none !important;
+    }

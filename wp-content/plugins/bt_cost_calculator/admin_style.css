@@ -1,0 +1,83 @@
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator:before {
+    content: '\e967';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_item:before {
+    content: '\e902';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_separator:before {
+    content: '\e914';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_group:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_group:before {
+    content: '\e965';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_multiply:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_multiply:before {
+    content: '\e966';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_text:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_text:before {
+    content: '\e960';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_slider:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_slider:before {
+    content: '\e962';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_switch:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_switch:before {
+    content: '\e961';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_select:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_select:before {
+    content: '\e964';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_raw_html:before {
+    content: '\e94e';
+    }
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_bb_cost_calculator_subtotal:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bt_cc_subtotal:before {
+    content: '\e91e';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_separator:before {
+    content: '\e914';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc:before {
+    content: '\e967';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_item:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_item:before {
+    content: '\e902';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_group:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_group:before {
+    content: '\e965';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_multiply:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_multiply:before {
+    content: '\e966';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_text:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_text:before {
+    content: '\e960';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_slider:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_slider:before {
+    content: '\e962';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_switch:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_switch:before {
+    content: '\e961';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_select:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_select:before {
+    content: '\e964';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_raw_html:before {
+    content: '\e94e';
+    }
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_cost_calculator_subtotal:before,
+.bt_bb_dialog_content .bt_bb_icon_bt_cc_subtotal:before {
+    content: '\e91e';
+    }
+

@@ -1,0 +1,1 @@
+<?php $admin_style = sanitize_text_field('', array() );

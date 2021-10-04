@@ -1,0 +1,16 @@
+.bt-bb-light-description {
+	font-size: 14px;
+}
+
+.bt-bb-light-message {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.bt-bb-light-message-ok {
+	color: #46b450;
+}
+
+.bt-bb-light-message-error {
+	color: #dc3232;
+}

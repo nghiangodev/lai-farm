@@ -1,0 +1,12 @@
+.rwmb-meta-box input[type="text"], .rwmb-meta-box select {
+	width:250px;
+}
+
+.rwmb-meta-box input[type="text"].boldthemes_bttext {
+	width:250px;
+}
+
+.customize-control-image, .customize-control-text, .customize-control-select, .customize-control-radio, .customize-control-checkbox, .customize-control-color {
+	padding-top:5px;
+	padding-bottom:5px;
+}

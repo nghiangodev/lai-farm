@@ -1,0 +1,214 @@
+/* Material icons */
+
+@font-face {
+  font-family: 'MaterialIcons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url('https://fonts.gstatic.com/s/materialicons/v20/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2') format('woff2');
+}
+
+/* Google Map Element Icon */
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item .bt_bb_item .bt_bb_item .bt_bb_item.bt_bb_icon_bt_bb_gmaps:before, 
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_gmaps:before {
+    font-family: 'MaterialIcons' !important;
+    content: "\e55B";
+}
+
+.bt_rc_icon_preview:before {
+	content: attr(data-icon-code);
+}
+.bt_rc_icon_preview {
+	/*vertical-align: middle;*/
+}
+
+.bt_rc_iconpicker .bt_rc_iconpicker_icons .bt_rc_icon_preview {
+    height: 46px;
+	font-size: 36px;
+	padding: 5px 0px;
+}
+
+.bt_rc_icon_preview.bt_rc_icon_preview_fa {
+	font-family: FontAwesome;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_s7 {
+	font-family: Icon7Stroke;
+}
+
+.bt_bb_icon_preview:before {
+	content: attr(data-icon-code);
+}
+.bt_bb_icon_preview {
+	/*vertical-align: middle;*/
+}
+
+.bt_bb_iconpicker .bt_bb_iconpicker_icons .bt_bb_icon_preview {
+    height: 46px;
+	font-size: 36px;
+	padding: 5px 0px;
+}
+
+.bt_bb_icon_preview.bt_bb_icon_preview_fa {
+	font-family: FontAwesome;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_s7 {
+	font-family: Icon7Stroke;
+}
+
+/* FontAwesome */
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../../themes/industrial/fonts/fontawesome-webfont.eot?v=4.3.0');
+    src: url('../../themes/industrial/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('../../themes/industrial/fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'), url('../../themes/industrial/fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'), url('../../themes/industrial/fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'), url('../../themes/industrial/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
+
+@font-face {
+    font-family: 'Icon7Stroke';
+    src:url('../../themes/industrial/fonts/Pe-icon-7-stroke.eot?d7yf1v');
+    src:url('../../themes/industrial/fonts/Pe-icon-7-stroke.eot?#iefixd7yf1v') format('embedded-opentype'),
+    url('../../themes/industrial/fonts/Pe-icon-7-stroke.woff?d7yf1v') format('woff'),
+    url('../../themes/industrial/fonts/Pe-icon-7-stroke.ttf?d7yf1v') format('truetype'),
+    url('../../themes/industrial/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}  
+
+/* Custom icons */
+
+@font-face {
+    font-family: 'CustomDesignSet';
+    src:
+        url('../../themes/industrial/fonts/CustomDesignSet.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/CustomDesignSet.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/CustomDesignSet.svg?uo8kwk#CustomDesignSet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomEssentialSet';
+    src:
+        url('../../themes/industrial/fonts/CraftEssential.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/CraftEssential.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/CraftEssential.svg?uo8kwk#CustomEssentialSet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomProductivitySet';
+    src:
+        url('../../themes/industrial/fonts/Productivity.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/Productivity.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/Productivity.svg?uo8kwk#CustomProductivitySet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomBusinessSet';
+    src:
+        url('../../themes/industrial/fonts/Business.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/Business.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/Business.svg?uo8kwk#CustomBusinessSet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomDevelopmentSet';
+    src:
+        url('../../themes/industrial/fonts/Development.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/Development.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/Development.svg?uo8kwk#CustomDevelopmentSet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomConstructionSet';
+    src:
+        url('../../themes/industrial/fonts/Construction.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/Construction.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/Construction.svg?uo8kwk#CustomConstructionSet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomTransportationSet';
+    src:
+        url('../../themes/industrial/fonts/Transportation.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/Transportation.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/Transportation.svg?uo8kwk#CustomTransportationSet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomScienceSet';
+    src:
+        url('../../themes/industrial/fonts/Science.ttf?uo8kwk') format('truetype'),
+        url('../../themes/industrial/fonts/Science.woff?uo8kwk') format('woff'),
+        url('../../themes/industrial/fonts/Science.svg?uo8kwk#CustomScienceSet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+.bt_rc_icon_preview.bt_rc_icon_preview_ds {
+	font-family: CustomDesignSet;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_es {
+	font-family: CustomEssentialSet;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_pr {
+	font-family: CustomProductivitySet;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_bs {
+	font-family: CustomBusinessSet;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_dv {
+	font-family: CustomDevelopmentSet;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_cs {
+	font-family: CustomConstructionSet;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_ts {
+	font-family: CustomTransportationSet;
+}
+.bt_rc_icon_preview.bt_rc_icon_preview_ss {
+	font-family: CustomScienceSet;
+}
+
+.bt_bb_icon_preview.bt_bb_icon_preview_ds {
+	font-family: CustomDesignSet;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_es {
+	font-family: CustomEssentialSet;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_pr {
+	font-family: CustomProductivitySet;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_bs {
+	font-family: CustomBusinessSet;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_dv {
+	font-family: CustomDevelopmentSet;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_cs {
+	font-family: CustomConstructionSet;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_ts {
+	font-family: CustomTransportationSet;
+}
+.bt_bb_icon_preview.bt_bb_icon_preview_ss {
+	font-family: CustomScienceSet;
+}
