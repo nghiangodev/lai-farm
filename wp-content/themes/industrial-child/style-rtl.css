@@ -1,0 +1,32 @@
+.gutter .port {
+  max-width: 1335px !important;
+}
+
+.slick-slider .slick-list {
+  margin: unset !important;
+}
+
+.list-inline, .list-unstyled {
+  padding-right: 0;
+  list-style: none;
+}
+
+.mt-6 {
+  margin-top: 3.5rem;
+}
+
+.mcr-1 {
+  margin-left: 10px;
+}
+
+.mcl-0 {
+  margin-right: 0 !important;
+}
+
+footer {
+  display: none;
+}
+
+.bt_bb_wrapper {
+  height: 20px;
+}
